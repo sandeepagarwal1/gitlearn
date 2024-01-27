@@ -1,7 +1,5 @@
 age=24
-age2=4
-age3=5
-age4=5
+
 
 # define a function named count_vowels
 def count_vowels(string):
